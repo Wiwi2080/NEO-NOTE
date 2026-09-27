@@ -1,4 +1,4 @@
-const CACHE_NAME = "neonote-cache-v3";
+const CACHE_NAME = "neonote-cache-v4";
 const FILES_TO_CACHE = [
   "./",
   "./indexNEO.html",
